@@ -134,7 +134,6 @@ objInLocalStorage.set({username: 'papasmurf', password: 'i_love_smurfette'});
 
 objInLocalStorage.key = 'user2';
 objInLocalStorage.set({username: 'smurfette', password: 'i_love_papa'});
-
 ```
 </details>
 
