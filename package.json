@@ -1,6 +1,6 @@
 {
   "name": "@writetome51/object-in-local-storage",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A class representing an object or array stored in the browser's localStorage. Makes it incredibly easy to store, modify, and retrieve an object/array from localStorage",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -29,6 +29,6 @@
   "homepage": "https://github.com/writetome51/object-in-local-storage#readme",
   "devDependencies": {},
   "dependencies": {
-    "@writetome51/object-in-browser-storage": "^3.0.0"
+    "@writetome51/object-in-browser-storage": ">=4.0.1"
   }
 }
